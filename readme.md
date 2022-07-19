@@ -4,7 +4,7 @@ My version of the minimal theme designed to document Python code.
 
 ## Link
 
-https://sofia-scz.github.io/mycustom-minimal/
+https://sofia-scz.github.io/mycustom-minimal-rsb/
 
 ## Instructions
 
