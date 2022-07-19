@@ -1,4 +1,4 @@
-# My custom minimal theme for Github pages
+# My custom minimal theme for Github pages - 2nd sidebar to the right
 
 My version of the minimal theme designed to document Python code. 
 
