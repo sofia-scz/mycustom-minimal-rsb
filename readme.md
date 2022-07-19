@@ -13,6 +13,7 @@ provided in the homepage's sidebar.
 
 ## Additions/changes
 
+* Adding a second sidebar to the right.
 * Added examples of building API docs and adding them to Github pages
 * Modified the css to be able to fit 80 characters length code in the body of each page, doesn't break
 rendering in neither 1080 nor 720 px screens, and works on both Mozilla and Chrome.
