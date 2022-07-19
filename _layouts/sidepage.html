@@ -18,16 +18,20 @@
           <img src="{{site.logo | relative_url}}" alt="Logo" />
         {% endif %}
       
-      <br>
-      <h3>Table of contents </h3> 
-      {% include toc.html html=content %}
-
       </header>
       <section>
 
       {{ content }}
 
       </section>
+      
+      <rsidebar>
+    
+      <h3>Table of contents </h3> 
+      {% include toc.html html=content %}
+      
+      </rsidebar>
+          
       <footer>
         <p>This project is maintained by <a href="{{ site.github.owner_url }}">{{ site.github.owner_name }}</a></p>
         <p><small>Hosted on GitHub Pages</small></p>
