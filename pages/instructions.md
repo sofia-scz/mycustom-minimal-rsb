@@ -7,6 +7,10 @@ permalink: /instructions/
 
 Original theme is https://github.com/pages-themes/minimal
 
+```
+# this is an 80 characters length cole line to do some testing #################
+```
+
 ## Layouts
 
 There are two built in layouts for markdown generated pages, one for the homepage, and another one for new pages,
