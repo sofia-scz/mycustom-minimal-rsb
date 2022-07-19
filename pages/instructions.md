@@ -8,7 +8,7 @@ permalink: /instructions/
 Original theme is https://github.com/pages-themes/minimal
 
 ```
-# this is an 80 characters length cole line to do some testing #################
+# this is an 80 characters length code line to do some testing #################
 ```
 
 ## Layouts
