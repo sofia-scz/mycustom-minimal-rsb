@@ -300,6 +300,7 @@
     % endif
 
     <h1>Index</h1>
+    <h3>Return to the project's homepage</h3>
     ${extract_toc(module.docstring) if extract_module_toc_into_sidebar else ''}
     <ul id="index">
     % if supermodule:
