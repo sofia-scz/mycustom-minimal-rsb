@@ -72,6 +72,14 @@ permalink: /#name of the index/#name of the submodule.html
 ---
 ```
 
+### Custom pdoc templates
+
+Modify the default pdoc templates given in the pdoc-custom folder of the download, and then when building the htmls run the command
+
+```
+pdoc --html -c latex_math=True --template-dir=pdoc-custom packagenameinpypi
+```
+
 ## Table of contents
 
 There is a built in table of contents taken from https://github.com/allejo/jekyll-toc that worked out of the box by
